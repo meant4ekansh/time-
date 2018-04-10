@@ -1,3 +1,4 @@
+//Initialise a counter variable
 var countTextCalled = 0;
 function countText(a){
     countTextCalled++;
